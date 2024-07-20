@@ -31,7 +31,7 @@ This project aims to detect human emotions in real-time using a webcam feed and 
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/Real-Time-Emotion-Detection.git
+git clone https://github.com/LordAzezl/Real-Time-Emotion-Detection.git
 cd Real-Time-Emotion-Detection
 ```
 
