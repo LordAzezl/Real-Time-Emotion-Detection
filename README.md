@@ -32,7 +32,7 @@ This project aims to detect human emotions in real-time using a webcam feed and 
 
 ```bash
 git clone https://github.com/LordAzezl/Real-Time-Emotion-Detection.git
-cd Real-Time-Emotion-Detection
+
 ```
 
 2. **Install required Python packages**:
